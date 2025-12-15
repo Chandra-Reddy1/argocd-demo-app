@@ -15,6 +15,6 @@ spec:
       containers:
       - name: nginx
         image: chandra219/welcome-app
-         ports:
+        ports:
         - containerPort: 80
         
