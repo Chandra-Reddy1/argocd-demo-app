@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: chandra219/nginx
+        image: nginx
         ports:
         - containerPort: 80
         
